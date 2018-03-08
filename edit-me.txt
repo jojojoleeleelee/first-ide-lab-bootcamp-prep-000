@@ -1,1 +1,2 @@
 <!TYPE DOCHTML>
+Hello world!
